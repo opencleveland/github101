@@ -34,8 +34,8 @@ Repositories:
 
 
 
-
-ISSUES: 
+**Part 2**
+ISSUES:
 https://training.github.com/kit/modules/COLL-02_Using-issues.html
 
     Issues  are used to track bugs and feature requests. Issues can be assigned to  specific team members and are designed to encourage discussion and  collaboration. --GitHub training materials
@@ -49,7 +49,7 @@ https://training.github.com/kit/modules/COLL-02_Using-issues.html
 
 
 
-
+**Part 3** 
 Fork: 
 
     A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original. Forks remain attached to the original, allowing you to submit a pull request to the original's author to update with your changes. You can also keep your fork up to date by pulling in updates from the original. --GitHub glossary https://help.github.com/articles/github-glossary/
@@ -81,7 +81,6 @@ There are two exercises we could do: creating your own repository to do the hell
 (other resources to find: cathydeng's image of 
 kathleen danielson's git terms)
 
-
 GISTS: 
 
     need a place to put a code sample, or some text and it doesn't belong to a particular project ? 
@@ -96,14 +95,16 @@ EXAMPLES:
 syllabi: 
 https://github.com/mattwaite/JOUR407-Data-Journalism 
 https://github.com/codeforamerica/howto
-
-
 https://github.com/open-austin/project-ideas
+
+
 
 Presentations (that have code + html)
 https://github.com/walkerke/aag2015
 
-    alternatives like big and something else. 
 
+tutorials: 
+http://gitimmersion.com/lab_01.html
+http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 
 
